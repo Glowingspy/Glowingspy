@@ -1,6 +1,7 @@
 # About Me:
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Glowingspy)
-You can reach me with teferarobera13@gmail.com
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Glowingspy)<br/>
+📬 **Reach me at:** [📩 email@gmail.com](teferarobera13@gmail.com)  
+
 
 📚 Currently a Computer Science freshman<br>💭 Spending time working on cool projects
 
