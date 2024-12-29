@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Currently a Computer Science Freshaman<br>💭 Spending time working on cool projects
+📚 Currently a Computer Science freshman<br>💭 Spending time working on cool projects
 
 
 # 💻 Tech Stack:
