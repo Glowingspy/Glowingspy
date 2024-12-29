@@ -1,4 +1,6 @@
 # 💫 About Me:
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Glowingspy)
+
 📚 Currently a Computer Science freshman<br>💭 Spending time working on cool projects
 
 
@@ -10,6 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Glowingspy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Glowingspy&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
